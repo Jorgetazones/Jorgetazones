@@ -41,7 +41,7 @@ I'm a full stack web developer who enjoys building functional and scalable appli
 
 - [LinkedIn](https://www.linkedin.com/in/jorge-alonso-victorero-326503365)
 
-- [Portfolio](https://yourportfolio.com)
+- [Portfolio](https://jorgealonsov-portfolio.vercel.app/)
 
 ---
 
