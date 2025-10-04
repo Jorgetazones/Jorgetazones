@@ -32,8 +32,9 @@ I'm a full stack web developer who enjoys building functional and scalable appli
 
 ## 📌 Featured Projects
 
-- [🔗 Project Name 1](#) – Short description of what it does.  
+- [🔗 BioCan](https://github.com/TuUsuario/BioCan) – A full-stack online store for small farmers to sell their surplus crops. Built with React, TypeScript, Node.js, Express, and MySQL.
 - [🔗 Project Name 2](#) – Another project with a brief explanation.
+
 
 ---
 
